@@ -1,0 +1,248 @@
+.first-container {
+  background-image: url("../images/education.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  padding: 80px 0;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+.custom {
+  padding: 10px 20px;
+}
+
+.title-div {
+  padding: 0;
+}
+
+.name {
+  color: #423F3E;
+  font-size: 6rem;
+  margin: 80px auto;
+  font-family: 'Kaushan Script', sans-serif;
+  display: inline-block;
+}
+
+h2 {
+  color: #423F3E;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+
+h3 {
+  color: #423F3E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+
+.custom {
+  background-color: #EEEEEE;
+  text-align: center;
+}
+
+.obj {
+  margin: auto;
+}
+
+.custom-c {
+  height: 450px;
+  margin: 20px;
+  box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  background: rgba(200, 175, 175, 0.5);
+  border-top: 1px solid rgba(0, 0, 0, 0.8);
+  border-left: 1px solid rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(5px);
+}
+
+.custom-b {
+  text-align: left;
+  margin: 20px;
+}
+
+.login-button, .teacher-button, .contact-button, .courses-button, .about-button, .home-button, .admission-button {
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.login-button:hover, .teacher-button:hover, .contact-button:hover, .courses-button:hover, .about-button:hover, .home-button:hover, .admission-button:hover {
+  color: blue;
+}
+
+.second-container {
+  padding: 80px 50px;
+  position: relative;
+  background-color: rgba(200, 175, 175, 0.5);
+  line-height: 2.5rem;
+}
+
+.third-container {
+  background-image: url("../images/library.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  padding: 80px 0;
+}
+
+h1 {
+  font-family: 'Charm', cursive;
+  color: #423F3E;
+}
+
+p, li {
+  font-family: 'Merriweather', sans-serif;
+  color: #423F3E;
+}
+
+.departments {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+.departments-list {
+  text-align: left;
+  padding-left: 22%;
+  color: #423F3E;
+}
+
+.profile-pic {
+  height: 200px;
+}
+
+.a-t {
+  padding-left: 30%;
+}
+
+.a-t li {
+  color: white;
+  font-weight: bolder;
+  text-align: left;
+  margin: 10px;
+}
+
+.a-t li a {
+  text-decoration: none;
+  color: rgba(0, 255, 200, 1);
+}
+
+.profile-pic {
+  margin: 30px;
+}
+
+.teachers-heading {
+  display: inline-block;
+  border: 2px solid white;
+  padding: 5px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+
+.third-container h2 {
+  color: white;
+}
+
+.third-container h3 {
+  color: white;
+}
+
+.teacher-name {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.fourth-container {
+  padding: 80px 50px;
+  position: relative;
+  background-color: rgba(200, 175, 175, 0.5);
+  line-height: 2.5rem;
+}
+
+.c-b {
+  outline: black;
+  width: 30px;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 5px;
+}
+
+.custom-course {
+  margin: 20px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(5px);
+}
+
+.note {
+  margin: 20px;
+  border: 2px solid #423F3E;
+  display: inline-block;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.footer {
+  background-color: rgba(0, 0, 0, 0.8);
+  text-align: left;
+  padding:50px 30px;
+}
+
+.footer a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.footer a:hover {
+  color: #B5FFD9;
+}
+
+.footer li  {
+  color: rgba(255, 255, 255, 0.8);
+  margin: 30px;
+}
+
+.footer li:hover {
+  color: #B5FFD9;
+}
+
+.logo-img {
+  height: 75px;
+}
+
+a h6 {
+  display: inline;
+}
+
+.footer-list {
+  display: inline;
+}
+
+.footer-list li {
+  display: inline;
+}
+
+.footer-logo-container {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 30px;
+  height: 250px;
+  width: 250px;
+  margin-left: 70%;
+}
+
+.footer-logo {
+  height: 200px;
+  margin: 25px 45px;
+}
