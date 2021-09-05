@@ -69,5 +69,19 @@ a:hover {
 }
 
 .session {
+  margin: 25px auto 10px;
   text-decoration: underline;
+}
+
+.registration {
+  display: inline-block;
+  font-size: 3rem;
+  padding: 5px;
+  margin: 25px auto 0;
+  border: 2px solid #423F3E;
+  border-radius: 5px;
+}
+
+.registration:hover {
+  color: #6E85B2;
 }
