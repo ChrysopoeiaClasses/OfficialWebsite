@@ -72,13 +72,13 @@ h3 {
   margin: 20px;
 }
 
-.login-button, .teacher-button, .contact-button, .courses-button, .about-button, .home-button, .admission-button, .doubts-button {
+.teacher-button, .contact-button, .courses-button, .about-button, .home-button, .admission-button, .doubts-button {
   border: 1px solid black;
   border-radius: 4px;
   padding: 5px;
 }
 
-.login-button:hover, .teacher-button:hover, .contact-button:hover, .courses-button:hover, .about-button:hover, .home-button:hover, .admission-button:hover, .doubts-button:hover {
+.teacher-button:hover, .contact-button:hover, .courses-button:hover, .about-button:hover, .home-button:hover, .admission-button:hover, .doubts-button:hover {
   color: blue;
 }
 
