@@ -85,3 +85,35 @@ a:hover {
 .registration:hover {
   color: #6E85B2;
 }
+
+.admission-head {
+  margin: 50px auto 20px;
+}
+
+.custom {
+  background-color: #EEEEEE;
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.name {
+  font-family: 'Kaushan Script', sans-serif;
+}
+
+.name-link {
+  text-decoration: none;
+}
+
+.logo-img {
+  height: 35px;
+}
+
+.home-button, .doubts-button {
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.home-button:hover, .doubts-button:hover {
+  color: blue;
+}
