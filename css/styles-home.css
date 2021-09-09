@@ -274,26 +274,26 @@ p, li {
 
 .departments {
   text-align: center;
-  width: 50%;
+  width: 70%;
   margin: auto;
 }
 
 .departments-list {
   text-align: left;
-  padding-left: 22%;
+  padding-left: 29%;
   color: #423F3E;
 }
 
 .intelligence-div {
     text-align: center;
-    width: 50%;
+    width: 70%;
     margin: auto;
 }
 
 .intelligence {
   text-align: left;
   color: #423F3E;
-  padding-left: 22%;
+  padding-left: 30%;
 }
 
 .quote {
