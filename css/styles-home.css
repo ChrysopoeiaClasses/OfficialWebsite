@@ -284,6 +284,18 @@ p, li {
   color: #423F3E;
 }
 
+.intelligence-div {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.intelligence {
+  text-align: left;
+  color: #423F3E;
+  padding-left: 22%;
+}
+
 .profile-pic {
   height: 200px;
 }
