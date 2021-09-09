@@ -296,6 +296,35 @@ p, li {
   padding-left: 22%;
 }
 
+.quote {
+  width: 70%;
+  margin: 100px auto;
+  position: relative;
+}
+
+.scientist-1, .scientist-2 {
+  height: 200px;
+}
+
+.scientist-1 {
+  float: right;
+  position: absolute;
+  top: -70px;
+  right: -70px;
+}
+
+.scientist-2 {
+  float: right;
+  position: absolute;
+  top: -70px;
+  left: -60px;
+}
+
+.quote-paragraph {
+  margin: 0 auto;
+  width: 50%;
+}
+
 .profile-pic {
   height: 200px;
 }
